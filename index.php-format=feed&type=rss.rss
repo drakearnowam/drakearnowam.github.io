@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description>Sala de Fitness a Universitatii Romano-Americane</description>
+		<link>http://fitness.rau.ro/index.php/component/content/?view=featured</link>
+		<lastBuildDate>Wed, 10 Jun 2020 12:17:58 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://fitness.rau.ro/index.php?format=feed&amp;type=rss"/>
+		<language>ro-ro</language>
+		<item>
+			<title>Despre noi</title>
+			<link>http://fitness.rau.ro/index.php/78-articole-postate/79-despre-noi</link>
+			<guid isPermaLink="true">http://fitness.rau.ro/index.php/78-articole-postate/79-despre-noi</guid>
+			<description><![CDATA[<p align="center">
+	<span style="font-size:14px;"><span style="font-family: times new roman,times,serif;"><span style="color:#ff0000;"><span style="font-size: 18px;"><strong>Mentine-te in forma la Rau Fitness !</strong></span></span></span></span></p>
+<p align="center">
+	&nbsp;</p>
+<p>
+	<span style="font-size:14px;"><span style="font-family: times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+<p>
+	Situata in incinta <strong><em>Universitatii Romano&ndash;Americana</em></strong>, <strong>&nbsp;Rau Fitness&nbsp; </strong>este locul unde te simti bine, lasand in urma stresul si problemele cotidiene!</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intr-un ambient&nbsp; mai mult decat placut, va asteptam sa va petreceti timpul impreuna cu noi! Aici puteti descoperi combinatia perfecta intre miscare, relaxare, si socializare!<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sala noastra se intinde pe o suprafata de aproximativ 350 mp,&nbsp; dispunand de numeroase dotari:</p>
+<ul>
+	<li>
+		Sala de Fitness dotata cu aparatura de ultima generatie;</li>
+	<li>
+		Sala Aerobic/Kangoo Jumps;</li>
+	<li>
+		Infrasauna;</li>
+	<li>
+		Vestiare dotate cu dusuri, grupuri sanitare ;</li>
+	<li>
+		Aer conditionat;</li>
+	<li>
+		Uscator de par;</li>
+	<li>
+		Prosoape;</li>
+</ul>
+<p style="margin-left:36.0pt;">
+	<strong>I</strong><strong>n pretul abonamentului este inclusa si aparatura cardio: benzi, biciclete,stepper.</strong></p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toate acestea la preturi speciale, adaptate&nbsp; nevoilor&nbsp; studentilor, dar si celorlalti doritori!</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pe langa toate acestea, <strong>Rau Fitness&nbsp; </strong>va recomanda o nutritie sanatoasa, combinata cu o savoare si un serviciu pe masura. In fiecare pauza pe care o veti face, veti avea posibilitatea sa va bucurati de<strong> suplimentele nutritive Redis</strong>.</p>
+<p align="center">
+	<strong><em>Suntem de parere ca o minte sanatoasa trebuie sa fie sustinuta de un corp sanatos, asadar va asteptam alaturi de noi pentru a incepe un stil de viata sanatos !</em></strong></p>
+]]></description>
+			<author>gabi.negricea@rau.ro (Super User)</author>
+			<category>Special</category>
+			<category>Articole postate</category>
+			<pubDate>Fri, 22 Feb 2013 15:08:35 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
